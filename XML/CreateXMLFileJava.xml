@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+    <directory name=".dist"/>
+    <file name="CreateXMLFileJava.class"/>
+    <file name="CreateXMLFileJava.java"/>
+    <file name="Doc.class"/>
+    <file name="Doc.java"/>
+    <file name="Document.class"/>
+    <file name="Dossier.class"/>
+    <file name="Dossier.java"/>
+    <file name="Factory.class"/>
+    <file name="Factory.java"/>
+    <file name="Fichier.class"/>
+    <file name="Fichier.java"/>
+    <file name="lireXML.class"/>
+    <file name="lireXML.java"/>
+    <file name="Repertoire.class"/>
+    <file name="Repertoire.java"/>
+    <directory name="XML"/>
+    <file name="XMLReader.class"/>
+    <file name="XMLReader.java"/>
+</root>
